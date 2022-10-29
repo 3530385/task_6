@@ -1,8 +1,13 @@
 import requests
 
 
+def get_data_from_avito():
+    response = 'data'
+    return response
+
+
 def main():
-    _ = requests.get('https://www.avito.ru/moskva/nedvizhimost')
+    get_data_from_avito()
 
 
 if __name__ == "__main__":
