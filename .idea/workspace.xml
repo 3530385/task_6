@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -136,7 +141,7 @@
       <updated>1667066114792</updated>
       <workItem from="1667066115996" duration="281000" />
       <workItem from="1667066480181" duration="4642000" />
-      <workItem from="1667071140982" duration="324000" />
+      <workItem from="1667071140982" duration="408000" />
     </task>
     <task id="LOCAL-00001" summary="baseline">
       <created>1667067100022</created>
@@ -187,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667071459870</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add CI">
+      <created>1667071477860</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667071477860</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
